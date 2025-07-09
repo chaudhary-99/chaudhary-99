@@ -7,4 +7,4 @@ Database: MongoDB, MySQL, PostgreSQL
 Coursework: Data Structures & Algorithms, Computer Networks, Database Management Systems, Software Engineering, Object-Oriented Programming
 
 ## Github Stats
-https://camo.githubusercontent.com/ec1be8e3586c0f1f8c3f6ae44081b7f389cfe58c79b0ec0988d8f2e25421a4fd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616268696e617633303231266c61796f75743d636f6d70616374267468656d653d7261646963616c
+
